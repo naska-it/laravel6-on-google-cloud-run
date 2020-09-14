@@ -14,6 +14,7 @@ return [
     */
 
     'name' => env('APP_NAME', 'Laravel'),
+    'cr_name' => env('_APP_NAME', 'Laravel on CR name'),
 
     /*
     |--------------------------------------------------------------------------
